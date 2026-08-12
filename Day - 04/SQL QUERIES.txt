@@ -1,0 +1,13 @@
+Insert Queries
+
+INSERT INTO student_data VALUES (2,'Daksh Dakhate',20,68,'Full Stack',5,2);
+
+INSERT INTO student_data (ID,Name,Age,Roll_No,Course,Duration,Teacher_Id) VALUES
+						 (7,'Umesh Deora',20,55,'Data Science',6,5),
+						 (5,'Lalit Marathe',18,62,'Data Engineer',7,25),
+                        			 (9,'Kalpesh Patil',21,45,'Mern Stack',10,12),
+                         			(10,'Krishna Baisane',17,33,'Graphic Design',4,11);
+
+Update Queries
+
+UPDATE student_data SET Name = 'Ghanshyam Patil' WHERE ID = 10;
