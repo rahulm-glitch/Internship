@@ -19,7 +19,7 @@ int main()
         total = total + marks[i];
     }
 
-    // Finding minimum and maximum
+    // Finding minimum and maximum with
     min = marks[0];
     max = marks[0];
 
