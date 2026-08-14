@@ -1,3 +1,5 @@
+// C++ program to demonstrate the concept of inheritance
+
 #include <iostream>
 using namespace std;
 
