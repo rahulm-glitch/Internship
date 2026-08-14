@@ -1,3 +1,5 @@
+// This program demonstrates the use of the ternary operator in C to find the smallest of two numbers.
+
 #include<stdio.h>
  
     int main(){
